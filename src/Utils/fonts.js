@@ -1,0 +1,1 @@
+export const PressStart2P  = 'PressStart2P-Regular';

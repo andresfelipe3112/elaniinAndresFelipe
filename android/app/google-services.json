@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1093316084763",
+    "firebase_url": "https://ellaniints-default-rtdb.firebaseio.com",
+    "project_id": "ellaniints",
+    "storage_bucket": "ellaniints.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093316084763:android:eb4c7cc8986ea00d5fe4be",
+        "android_client_info": {
+          "package_name": "com.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093316084763-s0j4uc0pcpfec00cgru8vq56jk7efmn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project",
+            "certificate_hash": "986cbb0e9772e2d941b2d1e1798f1ba628a0819b"
+          }
+        },
+        {
+          "client_id": "1093316084763-lp9tu6fi0vru40s14fqv8jqdl9li6la9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCudfBhVKCYxjCarZLHPl9OzpCR9X1jTh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093316084763-lp9tu6fi0vru40s14fqv8jqdl9li6la9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1093316084763-lauo84toljjcm2trka39lb1spta25iup.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ellanTS.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

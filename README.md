@@ -1,11 +1,10 @@
 # elaniinAndresFelipe
 
-![Captura de Pantalla 2022-11-09 a la(s) 1 27 32 a m](https://user-images.githubusercontent.com/66238252/200755589-5512c6cd-36db-4f49-9426-82ab927e32c1.png)
+
 ![Captura de Pantalla 2022-11-09 a la(s) 1 27 49 a m](https://user-images.githubusercontent.com/66238252/200755619-4199b0b1-7ee9-4282-9c79-8a3d3c4c8222.png)
-![Captura de Pantalla 2022-11-09 a la(s) 1 28 01 a m](https://user-images.githubusercontent.com/66238252/200755649-555002d0-2d07-4aaf-97d3-36a305c0e485.png)
 ![Captura de Pantalla 2022-11-09 a la(s) 1 28 25 a m](https://user-images.githubusercontent.com/66238252/200755751-7a6c7717-9956-4fd7-9b64-f55bb4a8c095.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E0_zjNR53FU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/E0_zjNR53FU
 
 ## Prerequisites!
 

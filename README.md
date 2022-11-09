@@ -1,14 +1,13 @@
 # elaniinAndresFelipe
 
 
-![Captura de Pantalla 2022-06-16 a la(s) 9 21 46 p m](https://user-images.githubusercontent.com/66238252/174443797-6a4d586b-9825-4dde-a2ba-88f19261b123.png)
+[simulator_screenshot_DA0C977B-140A-4683-9920-B688CDFEBB88](https://user-images.githubusercontent.com/66238252/200754984-cffb4099-ab7f-42e7-98ef-711777114193.png)
+![simulator_screenshot_95FB75B9-F996-4897-96BD-96B6F9C2AC54](https://user-images.githubusercontent.com/66238252/200755042-d3bab718-320f-4f60-afb9-df59ddd663a2.png)
 
+![simulator_screenshot_8C313E2C-6E4F-45D8-AFED-AACDC2DF1AF2](https://user-images.githubusercontent.com/66238252/200755259-40a35a1e-d97d-488c-8048-a6431f9e8405.png)
 
+## Prerequisites!
 
-https://user-images.githubusercontent.com/66238252/174463187-d85a4b3b-9c81-4d16-a3de-40b7acec2775.mov
-
-
-## Prerequisites
 
 - [Node.js > 12](https://nodejs.org) and npm (Recommended: Use [nvm](https://github.com/nvm-sh/nvm))
 - [Watchman](https://facebook.github.io/watchman)

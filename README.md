@@ -1,10 +1,9 @@
 # elaniinAndresFelipe
 
+![Captura de Pantalla 2022-11-09 a la(s) 1 27 32 a m](https://user-images.githubusercontent.com/66238252/200755589-5512c6cd-36db-4f49-9426-82ab927e32c1.png)
+![Captura de Pantalla 2022-11-09 a la(s) 1 27 49 a m](https://user-images.githubusercontent.com/66238252/200755619-4199b0b1-7ee9-4282-9c79-8a3d3c4c8222.png)
+![Captura de Pantalla 2022-11-09 a la(s) 1 28 01 a m](https://user-images.githubusercontent.com/66238252/200755649-555002d0-2d07-4aaf-97d3-36a305c0e485.png)
 
-[simulator_screenshot_DA0C977B-140A-4683-9920-B688CDFEBB88](https://user-images.githubusercontent.com/66238252/200754984-cffb4099-ab7f-42e7-98ef-711777114193.png)
-![simulator_screenshot_95FB75B9-F996-4897-96BD-96B6F9C2AC54](https://user-images.githubusercontent.com/66238252/200755042-d3bab718-320f-4f60-afb9-df59ddd663a2.png)
-
-![simulator_screenshot_8C313E2C-6E4F-45D8-AFED-AACDC2DF1AF2](https://user-images.githubusercontent.com/66238252/200755259-40a35a1e-d97d-488c-8048-a6431f9e8405.png)
 
 ## Prerequisites!
 
